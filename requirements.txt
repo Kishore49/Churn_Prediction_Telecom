@@ -1,0 +1,10 @@
+streamlit
+pyspark
+pandas
+streamlit
+pyspark
+pandas
+seaborn
+matplotlib
+scikit-learn
+plotly
